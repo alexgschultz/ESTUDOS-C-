@@ -7,7 +7,7 @@ int main()
 {   
 	char palavra[30], letra[1], secreta[30];
 	int tam, i, chances, acertos;
-	bool acerto = false;
+	bool acerto;
 
 	chances = 6;
 	tam = 0;
@@ -35,13 +35,12 @@ int main()
 		cout << "Chances restantes: " << chances << endl;
 		cout << "Palavra secreta: ";
 		for (i = 0; i < tam; i++) { // Exibe a palavra secreta com letras acertadas e sublinhados(___) para as letras não acertadas
-			cout << secreta[i] << " ";
+			cout << secreta[i];
 		}
 		cout << "\nDigite uma letra: ";
 		cin >> letra[0];
 		for (i = 0; i < tam; i++) { // Verifica se a letra digitada está presente na palavra secreta
 			if (palavra[i] == letra[0]) { // Se a letra estiver presente, atualiza a palavra secreta
-				secreta[i] = letra[0]; // Atualiza a palavra secreta com a letra acertada
 				acerto = true; // Marca que o jogador acertou uma letra
 				secreta[i] = palavra[i]; // Atualiza a palavra secreta com a letra correta
 				acertos++; // Incrementa o número de acertos do jogador

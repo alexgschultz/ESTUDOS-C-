@@ -7,7 +7,7 @@ int main()
 {   
 	char palavra[30], letra[1], secreta[30];
 	int tam, i, chances, acertos;
-	bool acerto = false;
+	bool acerto;
 
 	chances = 6;
 	tam = 0;

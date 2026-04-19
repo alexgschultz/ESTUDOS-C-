@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\JogoDaForca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C61CB68-8BF1-4BC1-92BB-8E8DC54F7FA5}|JogoDaForca.vcxproj|C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\JogoDaForca\\JogoDaForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C61CB68-8BF1-4BC1-92BB-8E8DC54F7FA5}|JogoDaForca.vcxproj|solutionrelative:JogoDaForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoDaForca.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\JogoDaForca\\JogoDaForca.cpp",
+              "RelativeDocumentMoniker": "JogoDaForca.cpp",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\JogoDaForca\\JogoDaForca.cpp",
+              "RelativeToolTip": "JogoDaForca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T15:59:59.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

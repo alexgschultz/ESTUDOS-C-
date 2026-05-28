@@ -7,6 +7,7 @@ int main()
 	int vetor[5]; // Declarando um vetor de inteiros com tamanho fixo
 	// int vetor[5] = {10, 20, 30, 40, 50};  Declarando e inicializando um vetor de inteiros
 	int i; // Variável de controle para loops
+	int mes[5] = {1, 2, 3, 4, 5}; // Declarando e inicializando um vetor de inteiros com os meses do ano
 
 	// Atribuindo valores aos elementos do vetor
 	vetor[0] = 10;

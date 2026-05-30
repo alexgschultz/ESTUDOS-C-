@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Exercicios\\N\u00FAmeros Primos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127670A9-05AB-476F-8312-EE43285A9E50}|N\u00FAmeros Primos.vcxproj|D:\\C\u002B\u002B\\Exercicios\\N\u00FAmeros Primos\\N\u00FAmeros Primos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{127670A9-05AB-476F-8312-EE43285A9E50}|N\u00FAmeros Primos.vcxproj|solutionrelative:N\u00FAmeros Primos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "N\u00FAmeros Primos.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Exercicios\\N\u00FAmeros Primos\\N\u00FAmeros Primos.cpp",
+              "RelativeDocumentMoniker": "N\u00FAmeros Primos.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Exercicios\\N\u00FAmeros Primos\\N\u00FAmeros Primos.cpp",
+              "RelativeToolTip": "N\u00FAmeros Primos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T23:07:17.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

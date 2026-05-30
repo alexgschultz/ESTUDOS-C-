@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Exercicios\\Conversor de Temperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D16961-2967-41DF-9122-4204685C933F}|Conversor de Temperatura.vcxproj|D:\\C\u002B\u002B\\Exercicios\\Conversor de Temperatura\\Conversor de Temperatura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3D16961-2967-41DF-9122-4204685C933F}|Conversor de Temperatura.vcxproj|solutionrelative:Conversor de Temperatura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversor de Temperatura.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Exercicios\\Conversor de Temperatura\\Conversor de Temperatura.cpp",
+              "RelativeDocumentMoniker": "Conversor de Temperatura.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Exercicios\\Conversor de Temperatura\\Conversor de Temperatura.cpp",
+              "RelativeToolTip": "Conversor de Temperatura.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T22:49:12.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

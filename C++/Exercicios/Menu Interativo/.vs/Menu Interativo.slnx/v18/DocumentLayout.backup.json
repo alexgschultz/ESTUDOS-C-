@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Exercicios\\Menu Interativo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7323020C-662B-4CB8-8C31-152E2ADE7C20}|Menu Interativo.vcxproj|D:\\C\u002B\u002B\\Exercicios\\Menu Interativo\\Menu Interativo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7323020C-662B-4CB8-8C31-152E2ADE7C20}|Menu Interativo.vcxproj|solutionrelative:Menu Interativo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu Interativo.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Exercicios\\Menu Interativo\\Menu Interativo.cpp",
+              "RelativeDocumentMoniker": "Menu Interativo.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Exercicios\\Menu Interativo\\Menu Interativo.cpp",
+              "RelativeToolTip": "Menu Interativo.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T23:15:31.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

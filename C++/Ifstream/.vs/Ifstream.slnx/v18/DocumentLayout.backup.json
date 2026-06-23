@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Ifstream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD8157-CAFB-45E7-9B5B-3D21D909CDB8}|Ifstream.vcxproj|C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Ifstream\\Ifstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92AD8157-CAFB-45E7-9B5B-3D21D909CDB8}|Ifstream.vcxproj|solutionrelative:Ifstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ifstream.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Ifstream\\Ifstream.cpp",
+              "RelativeDocumentMoniker": "Ifstream.cpp",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Ifstream\\Ifstream.cpp",
+              "RelativeToolTip": "Ifstream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-22T18:27:34.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

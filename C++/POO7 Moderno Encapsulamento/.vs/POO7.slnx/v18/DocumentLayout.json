@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2F3D1C-DE4C-463A-877F-0FFF66303A61}|POO7.vcxproj|C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO7\\POO7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2F3D1C-DE4C-463A-877F-0FFF66303A61}|POO7.vcxproj|solutionrelative:POO7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POO7.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO7\\POO7.cpp",
+              "RelativeDocumentMoniker": "POO7.cpp",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO7\\POO7.cpp",
+              "RelativeToolTip": "POO7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-03T22:00:11.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

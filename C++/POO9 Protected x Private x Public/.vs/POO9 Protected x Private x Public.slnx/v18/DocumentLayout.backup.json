@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO9 Protected x Private x Public\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE3DD00-25A0-4F3B-920E-5DBF7B98B304}|POO9 Protected x Private x Public.vcxproj|C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO9 Protected x Private x Public\\POO9 Protected x Private x Public.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EE3DD00-25A0-4F3B-920E-5DBF7B98B304}|POO9 Protected x Private x Public.vcxproj|solutionrelative:POO9 Protected x Private x Public.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POO9 Protected x Private x Public.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO9 Protected x Private x Public\\POO9 Protected x Private x Public.cpp",
+              "RelativeDocumentMoniker": "POO9 Protected x Private x Public.cpp",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\POO9 Protected x Private x Public\\POO9 Protected x Private x Public.cpp",
+              "RelativeToolTip": "POO9 Protected x Private x Public.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-04T13:44:44.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

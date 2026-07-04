@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="POO10 Polimorfismo (sobrecarga de métodos).vcxproj" />
+</Solution>

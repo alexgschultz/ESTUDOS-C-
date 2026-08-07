@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Exercicios\\Fatorial\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Exercicios\\Fatorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A292CF6D-C12F-40CD-932D-CDEDF209116F}|Fatorial.vcxproj|D:\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A292CF6D-C12F-40CD-932D-CDEDF209116F}|Fatorial.vcxproj|C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A292CF6D-C12F-40CD-932D-CDEDF209116F}|Fatorial.vcxproj|solutionrelative:Fatorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Fatorial.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp",
               "RelativeDocumentMoniker": "Fatorial.cpp",
-              "ToolTip": "D:\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp",
-              "RelativeToolTip": "Fatorial.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Documentos\\Estudos\\ESTUDOS-C\u002B\u002B\\C\u002B\u002B\\Exercicios\\Fatorial\\Fatorial.cpp*",
+              "RelativeToolTip": "Fatorial.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-29T22:56:45.606Z",
               "EditorCaption": ""

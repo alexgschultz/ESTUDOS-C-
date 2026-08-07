@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Fibonacci.vcxproj" />
+  <Project Path="Fibonacci.vcxproj" Id="c8a6d907-4b7a-4ce8-beb3-50349f3af4dd" />
 </Solution>

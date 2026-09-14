@@ -22,13 +22,10 @@ int main()
     // find_if - procura o primeiro valor que atende uma condição
     // =========================================================
 
-    auto primeiroMaiorQue20 = std::find_if(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor > 20;
-        }
+    auto primeiroMaiorQue20 = std::find_if(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor > 20;
+    }
     );
 
     if (primeiroMaiorQue20 != valores.end())
@@ -48,13 +45,10 @@ int main()
     // count_if - conta valores que atendem uma condição
     // =========================================================
 
-    auto quantidadePositivos = std::count_if(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor > 0;
-        }
+    auto quantidadePositivos = std::count_if(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor > 0;
+    }
     );
 
     std::cout << "Positivos: " << quantidadePositivos << '\n';
@@ -75,31 +69,22 @@ int main()
     // none_of - nenhum atende?
     // =========================================================
 
-    bool todosPositivos = std::all_of(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor > 0;
-        }
+    bool todosPositivos = std::all_of(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor > 0;
+    }
     );
 
-    bool existeNegativo = std::any_of(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor < 0;
-        }
+    bool existeNegativo = std::any_of(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor < 0;
+    }
     );
 
-    bool nenhumMaiorQue100 = std::none_of(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor > 100;
-        }
+    bool nenhumMaiorQue100 = std::none_of(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor > 100;
+    }
     );
 
     std::cout << std::boolalpha;
@@ -113,14 +98,10 @@ int main()
 
     std::vector<int> dobrados(valores.size());
 
-    std::transform(
-        valores.begin(),
-        valores.end(),
-        dobrados.begin(),
-        [](int valor)
-        {
-            return valor * 2;
-        }
+    std::transform(valores.begin(), valores.end(), dobrados.begin(), [](int valor)
+    {
+        return valor * 2;
+    }
     );
 
     // =========================================================
@@ -130,13 +111,10 @@ int main()
 
     std::replace(valores.begin(), valores.end(), 20, 25);
 
-    std::replace_if(
-        valores.begin(),
-        valores.end(),
-        [](int valor)
-        {
-            return valor < 0;
-        },
+    std::replace_if(valores.begin(), valores.end(), [](int valor)
+    {
+        return valor < 0;
+    },
         0
     );
 
@@ -165,12 +143,10 @@ int main()
     // erase_if - remove usando uma condição (C++20)
     // =========================================================
 
-    std::erase_if(
-        valores,
-        [](int valor)
-        {
-            return valor < 10;
-        }
+    std::erase_if(valores, [](int valor)
+    {
+        return valor < 10;
+    }
     );
 
     // =========================================================
@@ -181,11 +157,7 @@ int main()
 
     std::sort(valores.begin(), valores.end());
 
-    bool existe30 = std::binary_search(
-        valores.begin(),
-        valores.end(),
-        30
-    );
+    bool existe30 = std::binary_search(valores.begin(), valores.end(), 30);
 
     std::cout << "Existe 30: " << existe30 << '\n';
 
@@ -195,33 +167,21 @@ int main()
     // sem quebrar a ordenação.
     // =========================================================
 
-    auto limiteInferior = std::lower_bound(
-        valores.begin(),
-        valores.end(),
-        30
-    );
+    auto limiteInferior = std::lower_bound(valores.begin(), valores.end(), 30);
 
     // =========================================================
     // upper_bound
     // Primeira posição depois dos valores iguais.
     // =========================================================
 
-    auto limiteSuperior = std::upper_bound(
-        valores.begin(),
-        valores.end(),
-        30
-    );
+    auto limiteSuperior = std::upper_bound(valores.begin(), valores.end(), 30);
 
     // =========================================================
     // equal_range
     // Retorna lower_bound e upper_bound juntos.
     // =========================================================
 
-    auto [inicio, fim] = std::equal_range(
-        valores.begin(),
-        valores.end(),
-        30
-    );
+    auto [inicio, fim] = std::equal_range(valores.begin(), valores.end(), 30);
 
     // =========================================================
     // mismatch
@@ -239,9 +199,7 @@ int main()
 
     if (diferenca.first != a.end())
     {
-        std::cout << "Primeira diferenca: "
-            << *diferenca.first << " e "
-            << *diferenca.second << '\n';
+        std::cout << "Primeira diferenca: " << *diferenca.first << " e " << *diferenca.second << '\n';
     }
 
     // =========================================================
@@ -251,10 +209,7 @@ int main()
 
     std::vector<int> permutacao{ 1, 2, 3 };
 
-    std::next_permutation(
-        permutacao.begin(),
-        permutacao.end()
-    );
+    std::next_permutation(permutacao.begin(), permutacao.end());
 
     std::cout << "Proxima permutacao: ";
 

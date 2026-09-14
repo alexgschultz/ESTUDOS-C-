@@ -1,34 +1,67 @@
+#include <array>
 #include <iostream>
 
-using namespace std;
-
 int main()
-{   
-	int vetor[5]; // Declarando um vetor de inteiros com tamanho fixo
-	// int vetor[5] = {10, 20, 30, 40, 50};  Declarando e inicializando um vetor de inteiros
-	int i; // Variável de controle para loops
-	int mes[5] = {1, 2, 3, 4, 5}; // Declarando e inicializando um vetor de inteiros com os meses do ano
+{
+    // =========================================================
+    // std::array - vetor de tamanho fixo
+    // =========================================================
 
-	// Atribuindo valores aos elementos do vetor
-	vetor[0] = 10;
-	vetor[1] = 20;
-	vetor[2] = 30;
-	vetor[3] = 40;
-	vetor[4] = 50;
-	//vetor[5] = 60; -> ERRO: Acesso fora dos limites do vetor (comportamento indefinido)
+    std::array<int, 5> vetor{};
 
-	cout << vetor[3] << "\n\n";
+    // Outra forma:
+    // std::array<int, 5> vetor{10, 20, 30, 40, 50};
 
-	// outra forma de declarar e inicializar um vetor
-	for (int i = 0; i < 5; i++) {
-		cout << vetor[i] << endl;
-	}
-	cout << "\n";
+    // =========================================================
+    // Atribuindo valores aos elementos
+    // =========================================================
 
-	// outra forma de declarar e inicializar um vetor
-	for (i = 0; i < sizeof(vetor) / 4; i++) { // sizeof(vetor) retorna o tamanho total do vetor em bytes, e cada elemento é um inteiro (4 bytes)
-		cout << vetor[i] << endl;
-	}
+    vetor[0] = 10;
+    vetor[1] = 20;
+    vetor[2] = 30;
+    vetor[3] = 40;
+    vetor[4] = 50;
+
+    // vetor[5] = 60;
+    // ERRO: índice fora dos limites.
+    // O comportamento seria indefinido usando operator[].
+
+    std::cout << vetor[3] << "\n\n";
+
+    // =========================================================
+    // Percorrendo usando índice
+    // =========================================================
+
+    for (std::size_t i = 0; i < vetor.size(); ++i)
+    {
+        std::cout << vetor[i] << '\n';
+    }
+
+    std::cout << '\n';
+
+    // =========================================================
+    // Percorrendo usando range-based for
+    // =========================================================
+
+    for (int valor : vetor)
+    {
+        std::cout << valor << '\n';
+    }
+
+    std::cout << '\n';
+
+    // =========================================================
+    // Outro std::array inicializado diretamente
+    // =========================================================
+
+    std::array<int, 5> numeros{ 1, 2, 3, 4, 5 };
+
+    for (int numero : numeros)
+    {
+        std::cout << numero << ' ';
+    }
+
+    std::cout << '\n';
 
     return 0;
 }
